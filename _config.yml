@@ -1,6 +1,6 @@
 # Site settings
 title: pradeek's blog
-description: "Companion blog to the lynda.com course, Jekyll for Web Designers. This site is designed to present Jekyll to web designers in a clear, concise way, and provide a resource and reference for those that are new to Jekyll."
+description: "This is my personal blog where i write my personal thoughts."
 baseurl: "/pradeeks-blog"
 url: "https://pradeekyahvi.github.io/pradeeks-blog"
 tagline: my thoughts
