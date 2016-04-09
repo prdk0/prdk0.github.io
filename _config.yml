@@ -1,9 +1,9 @@
 # Site settings
 title: pradeek's blog
-description: "This is my personal blog where i write my personal thoughts."
+description: "This is my technical blog site"
 baseurl: "/pradeeks-blog"
 url: "https://pradeekyahvi.github.io/pradeeks-blog"
-tagline: my thoughts
+tagline: tech blog
 
 # Build settings
 markdown: kramdown
