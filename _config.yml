@@ -1,8 +1,8 @@
 # Site settings
 title: pradeek's blog
 description: "knowledge is power and should be free"
-baseurl: ""
-url: ""
+baseurl: "/"
+url: "https://geeklogs.github.io"
 tagline: tech blog
 
 # Build settings
