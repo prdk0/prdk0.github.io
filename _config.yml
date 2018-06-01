@@ -1,8 +1,8 @@
 # Site settings
 title: pradeek's blog
 description: "knowledge is power and should be free"
-baseurl: "/geeks-logs"
-url: "https://pradeekyahvi.github.io/geeks-logs"
+baseurl: ""
+url: ""
 tagline: tech blog
 
 # Build settings
@@ -12,5 +12,5 @@ kramdown:
 paginate: 4
 paginate_path: '/blog/page:num/'
 permalink: /blog/:title
-gems :
+plugins :
   - jekyll-paginate
