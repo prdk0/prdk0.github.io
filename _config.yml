@@ -1,9 +1,9 @@
 # Site settings
-title: pradeek's blog
+title: codelogs
 description: "knowledge is power and should be free"
 baseurl: ""
 url: ""
-tagline: tech blog
+tagline: programming and technical blog.
 
 # Build settings
 markdown: kramdown
