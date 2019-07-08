@@ -10,7 +10,7 @@ I admire singer ***Kurt Cobain*** and band ***nirvana*** who almost touched my s
 
 Things i like to do
 
-: The question is what I don't like to do , I am a person of art in heart , I have interest in several things like writing and singing..etc (yes i am a terrible singer ) but my interests changed with the year and finally caught up in to software industry . As for me its not a boring job,but I not gonna lie yea there are times when I got frustrated when some problem not get solved but its part of every job . So I chose not to mind that . I am a big fan of open source program and ***Linux*** .
+: The question is what I don't like to do , I am a person of art in heart , I have interest in several things like writing and singing..etc (yes i am a terrible singer ) but my interests changed with the year and finally caught up in to software industry . As for me its not a boring job,but I'm not gonna lie, yea there are times when I got frustrated when some problem not get solved but its part of every job. So I chose not to mind that. I'm a big fan of open source programs.
 
 : While moving to ***Linux***, it inspired me lots of things , You need to be patient enough to learn something. I read technical books and Google for getting stuff but lots of research and experimenting is needed to understand the idea. There are lot of people who helped me to grow my carrier. When I was in college I don't have a faintest idea of how to code . One day a friend of mine helped me to understand the funta behind the programming language. This thing I always carried away with me because sharing knowledge always improve your skills. Though I'm not a highly skilled person but still in the race.
 
