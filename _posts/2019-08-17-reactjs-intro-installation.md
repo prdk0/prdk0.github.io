@@ -25,7 +25,7 @@ Notable Features
 
 Install Nodejs
 
-: - For Installing Reactjs first you nedd to install <a href="https://nodejs.org/en/download/" target="_blank">Nodejs</a>. It will be Nice to use Node version manager tool like <a href="https://github.com/nvm-sh/nvm" target="_blank">NVM</a> to install Nodejs.
+: - For Installing Reactjs first we need to install <a href="https://nodejs.org/en/download/" target="_blank">Nodejs</a>. It will be Nice to use Node version manager tool like <a href="https://github.com/nvm-sh/nvm" target="_blank">NVM</a> to install Nodejs.
 
 : - Get the lastest version of nodejs list from remote by using nvm command
 
