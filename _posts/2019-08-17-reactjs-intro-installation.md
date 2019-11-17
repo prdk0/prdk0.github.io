@@ -7,7 +7,6 @@ comments: true
 ---
 
 Prolog
-
 : Reactjs is a JavaScript library for building user interfaces. Reactjs can be used for developing single page application and mobile applications. Complex React applications usually require the use of additional libraries for state management, routing, and interaction with an API. Reactjs is developed and currently maintained by <a href="https://www.facebook.com/" target="_blank">Facebook</a>.
 
 <!--more-->
