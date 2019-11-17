@@ -32,6 +32,6 @@ module.exports = function(app) {
 };
 ```
 
-This is the code for configuring proxy, In this first you need to import the library `http-proxy-middleware`. Then export the the proxy configuration using `module.exports`. `"your-api"` is the relative path of your api and `"your domain"` is the domain of your api.
+In this code first you need to import the library `http-proxy-middleware`. Then export the the proxy configuration using `module.exports`. `"your-api"` is the relative path of your api and `"your domain"` is the domain of your api.
 
 you need to maintain `commonjs` syntax inside the `setupProxy.js` you cannot use `es6` syntax. The `setupProxy.js` will automatically load when the app gets loaded.
