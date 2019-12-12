@@ -6,7 +6,7 @@ tag: [reactjs]
 comments: true
 ---
 
-In older Reactjs proxy is configured in package.json file inside react app. In new Reactjs proxy is configured with the help of a middleware called [http proxy middleware](https://github.com/chimurai/http-proxy-middleware "proxy middleware"){:target="\_blank"}.
+A Single line of Reactjs proxy can be configured in package.json file inside react app but more than one Reactjs proxy is configured with the help of a middleware called [http proxy middleware](https://github.com/chimurai/http-proxy-middleware "proxy middleware"){:target="\_blank"}.
 
 <!--more-->
 
