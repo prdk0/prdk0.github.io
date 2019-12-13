@@ -5,6 +5,8 @@ date: 2019-12-13
 tag: [golang]
 comments: true
 ---
+Official binary distributions are available for the FreeBSD (release 10-STABLE and above), Linux, macOS (10.10 and above), and Windows operating systems and the 32-bit (386) and 64-bit (amd64) x86 processor architectures.
+<!--more-->
 
 # System requirements
 
