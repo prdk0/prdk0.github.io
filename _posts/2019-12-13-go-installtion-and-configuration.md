@@ -64,7 +64,8 @@ Get all go evironment variable settings.
 go env
 ~~~
 
-> GOARCH="amd64"
+> 
+GOARCH="amd64"
 GOBIN=""
 GOCACHE="/home/pradeek/.cache/go-build"
 GOENV="/home/pradeek/.config/go/env"
