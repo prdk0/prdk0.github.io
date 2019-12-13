@@ -281,8 +281,7 @@ th {
 /* -------------------------------------------------- 
   Global settings
 -----------------------------------------------------*/
-
-{
+body {
 	font: 110% 'Roboto Slab', Georgia, serif;
 	background: white;
 	direction: ltr;
