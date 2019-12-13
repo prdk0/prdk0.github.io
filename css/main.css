@@ -281,7 +281,8 @@ th {
 /* -------------------------------------------------- 
   Global settings
 -----------------------------------------------------*/
-body {
+
+{
 	font: 110% 'Roboto Slab', Georgia, serif;
 	background: white;
 	direction: ltr;
@@ -712,7 +713,7 @@ html {
 	background: #6d6d6d;
 }
 body {
-	width: 80%;
+	width: 95%;
 	margin: 0 auto;
 }
 .page-header {
